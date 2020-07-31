@@ -54,6 +54,8 @@
 
 ---
 
+<img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=Prudhvi0001&show_icons=true&hide_border=true" />
+
 
 [website]: https://prudhvi0001.github.io
 [twitter]: https://twitter.com/VPrudhvi0001
