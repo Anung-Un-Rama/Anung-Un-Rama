@@ -4,8 +4,10 @@
 - 🧑‍💻 Data Scientist by Profession
 - 🧑‍🎨 Artist by Hobby
 - 🌲 I'm always learning something.
-- 🥅 2020 Goals: Contribute more to open Source projects.
-                Implement research papers.
+- 🥅 2020 Goals:
+
+      - Contribute more to open Source projects.
+      - Implement research papers.
 <!-- - ⚡️Fun fact: I can stand upside down 🤸‍♂️. -->
 
 ### Connect with me:
