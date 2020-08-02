@@ -1,13 +1,16 @@
-### Hi there, I'm Prudhvi Vajja (VJ for short).👋
+### Hi there,👋 This is 👇
 
-## I'm a Data Science Grad Student at IUB!
+![Name gif](https://github.com/Prudhvi0001/Prudhvi0001/blob/master/virtualFont.gif)
+
+## I'm a Data Science Grad Student at IUB
 - 🧑‍💻 Data Scientist by Profession
 - 🧑‍🎨 Artist by Hobby
 - 🌲 I'm always learning something.
-- 🥅 2020 Goals:
 
-      - Contribute more to open Source projects.
-      - Implement research papers.
+
+🥅 2020 Goals:
+- Contribute more to open Source projects.
+- Implement research papers.
 <!-- - ⚡️Fun fact: I can stand upside down 🤸‍♂️. -->
 
 ### Connect with me:
