@@ -8,7 +8,7 @@
 - 🌲 I'm always learning something.
 
 
-🥅 2020 Goals:
+### 🥅 2020 Goals:
 - Contribute more to open Source projects.
 - Implement research papers.
 <!-- - ⚡️Fun fact: I can stand upside down 🤸‍♂️. -->
