@@ -56,12 +56,15 @@
 
 ---
 
-<img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=Prudhvi0001&show_icons=true&hide_border=true" />
+<a href="https://github.com/Prudhvi0001">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Prudhvi0001&show_icons=true&theme=dark&line_height=27" alt="Prudhvi's github stats"/>
+</a>
+
+<!-- <img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=Prudhvi0001&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" /> -->
 
 
 [website]: https://prudhvi0001.github.io
 [twitter]: https://twitter.com/VPrudhvi0001
-<!-- [youtube]: https://youtube.com/codeSTACKr -->
 [instagram]: https://www.instagram.com/prudhvi.vajja/
 [linkedin]: https://www.linkedin.com/in/prudhvi-vajja-22079610b/
 [kaggle]: https://www.kaggle.com/prudhvivajja
