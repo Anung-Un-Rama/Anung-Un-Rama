@@ -1,6 +1,6 @@
 ### Hi there,👋 This is 👇
 
-![Name gif](https://github.com/Anung-Un-Rama/Anung-Un-Rama/blob/master/virtualFont.gif)
+![Name gif](https://github.com/PrudhviVajja/PrudhviVajja/blob/master/virtualFont.gif)
 
 ## I'm a Data Science Grad Student at IUB
 - 🧑‍💻 Data Scientist by Profession
@@ -56,17 +56,17 @@
 
 ---
 
-<a href="https://github.com/Prudhvi0001">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Prudhvi0001&show_icons=true&theme=dark&line_height=27" alt="Prudhvi's github stats"/>
+<a href="https://github.com/PrudhviVajja">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=PrudhviVajja&show_icons=true&theme=dark&line_height=27" alt="Prudhvi's github stats"/>
 </a>
 
 <!-- <img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=Prudhvi0001&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" /> -->
 
 
-[website]: https://prudhvi0001.github.io
+[website]: https://PrudhviVajja.github.io
 [twitter]: https://twitter.com/VPrudhvi0001
 [instagram]: https://www.instagram.com/prudhvi.vajja/
 [linkedin]: https://www.linkedin.com/in/prudhvi-vajja-22079610b/
 [kaggle]: https://www.kaggle.com/prudhvivajja
-[resources]: https://prudhvi0001.github.io/Resources/
+[resources]: https://PrudhviVajja.github.io/Resources/
 
