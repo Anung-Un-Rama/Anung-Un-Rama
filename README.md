@@ -1,6 +1,6 @@
 ### Hi there,👋 This is 👇
 
-![Name gif](https://github.com/Prudhvi0001/Prudhvi0001/blob/master/virtualFont.gif)
+![Name gif](https://github.com/Anung-Un-Rama/Anung-Un-Rama/blob/master/virtualFont.gif)
 
 ## I'm a Data Science Grad Student at IUB
 - 🧑‍💻 Data Scientist by Profession
