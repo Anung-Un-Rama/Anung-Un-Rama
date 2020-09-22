@@ -1,4 +1,5 @@
-### Hi there,👋 This is 👇
+### Hi there,👋 This is 👇 
+![](https://komarev.com/ghpvc/?username=prudhvivajja&style=plastic&label=profile+views&color=orange)
 
 ![Name gif](https://github.com/PrudhviVajja/PrudhviVajja/blob/master/virtualFont.gif)
 
