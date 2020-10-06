@@ -48,11 +48,11 @@
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [⚡️Load the same csv file 10X faster and with 10X less memory.⚡️](https://prudhvivajja.github.io/Load_data_faster/)
 - [Process of Creating an Effective Machine Learning Pipeline](https://prudhvivajja.github.io/AdvanceMLPipeline/)
 - [Basic Machine Learning Pipeline](https://prudhvivajja.github.io/BasicMLPipeline/)
 - [Tricks to Improve your Random Forests](https://prudhvivajja.github.io/RandomForests/)
 - [Design your First Custom Neural Network from scratch Using PyTorch](https://prudhvivajja.github.io/Pytorch_from_scartch/)
-- [some BASH topics](https://prudhvivajja.github.io/bash/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
