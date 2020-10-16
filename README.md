@@ -5,12 +5,18 @@
 
 <!-- ## I'm a Data Science Grad Student at IUB-->
 **About me.**
-- Data Science Grad at [Indiana University Bloomington](https://datascience.indiana.edu/)
-- I like to [draw](https://www.behance.net/prudhvivajja) when I'm bored.
-- **🐒 Fun Fact:-** I plan to over through bruce lee someday...🤫
-- **🐘 Moto:-** Don't think too much.
-- **🦋 Aim:-** May be finding purpose I suppose.(create a pull request If you have suggestions...lol)
-- **🦅 2020 Goals:-** Create more pull requests than before.
+
+Data Science Grad at [Indiana University Bloomington](https://datascience.indiana.edu/)
+
+I like to [draw](https://www.behance.net/prudhvivajja) when I'm bored.
+
+**🐒 Fun Fact:-** I plan to over through [Bruce Lee *(Be like water my friend)* ](https://images.unsplash.com/photo-1586343276471-c02138479e9e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80) someday...🤫
+
+**🐘 Moto:-** Don't think too much.
+
+**🦋 Aim:-** May be finding purpose I suppose.(create a pull request If you have suggestions...lol)
+
+**🦅 2020 Goals:-** Create more pull requests than before.
 
 
 ### Connect with me:
