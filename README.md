@@ -7,10 +7,10 @@
 **About me.**
 - Data Science Grad at [Indiana University Bloomington](https://datascience.indiana.edu/)
 - I like to [draw](https://www.behance.net/prudhvivajja) when I'm bored.
-- **⚡️ Fun Fact:-** I plan to over through bruce lee someday...🤫
-- **Moto:-** Don't think too much.
-- **Aim:-** May be finding purpose I suppose.(create a pull request If you have suggestions...lol)
-- **2020 Goals:-** Create more pull requests than before.
+- **🐒 Fun Fact:-** I plan to over through bruce lee someday...🤫
+- **🐘 Moto:-** Don't think too much.
+- **🦋 Aim:-** May be finding purpose I suppose.(create a pull request If you have suggestions...lol)
+- **🦅 2020 Goals:-** Create more pull requests than before.
 
 
 ### Connect with me:
