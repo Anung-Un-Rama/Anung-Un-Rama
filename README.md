@@ -1,18 +1,17 @@
-### Hi there,👋 This is 👇 
+### Hey, have fun! 🥳 
 ![](https://komarev.com/ghpvc/?username=prudhvivajja&style=plastic&label=profile+views&color=orange) (Count's my veiws too 🤷‍♂️ )
 
 ![Name gif](https://github.com/PrudhviVajja/PrudhviVajja/blob/master/virtualFont.gif)
 
-## I'm a Data Science Grad Student at IUB
-- 🧑‍💻 Data Scientist by Profession
-- 🧑‍🎨 Artist by Hobby
-- 🌲 I'm always learning something.
+<!-- ## I'm a Data Science Grad Student at IUB-->
+**About me.**
+- Data Science Grad at [Indiana University Bloomington](https://datascience.indiana.edu/)
+- I like to [draw](https://www.behance.net/prudhvivajja) when I'm bored.
+- **⚡️ Fun Fact:-** I plan to over through bruce lee someday...🤫
+- **Moto:-** Don't think too much.
+- **Aim:-** May be finding purpose I suppose.(create a pull request If you have suggestions...lol)
+- **2020 Goals:-** Create more pull requests than before.
 
-
-### 🥅 2020 Goals:
-- Contribute more to open Source projects.
-- Implement research papers.
-<!-- - ⚡️Fun fact: I can stand upside down 🤸‍♂️. -->
 
 ### Connect with me:
 
