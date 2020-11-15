@@ -60,11 +60,11 @@
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [⚡️Load the same csv file 10X faster and with 10X less memory.⚡️](https://prudhvivajja.github.io/Load_data_faster/)
-- [Process of Creating an Effective Machine Learning Pipeline](https://prudhvivajja.github.io/AdvanceMLPipeline/)
-- [Basic Machine Learning Pipeline](https://prudhvivajja.github.io/BasicMLPipeline/)
-- [Tricks to Improve your Random Forests](https://prudhvivajja.github.io/RandomForests/)
-- [Design your First Custom Neural Network from scratch Using PyTorch](https://prudhvivajja.github.io/Pytorch_from_scartch/)
+- [Virtualization and how it all started...](https://LazyAlgorithms.github.io/2020/11/01/Virtualization_Paper_Reviews/)
+- [⚡️Load the same csv file 10X faster and with 10X less memory.⚡️](https://LazyAlgorithms.github.io/2020/10/04/Load_data_faster/)
+- [Process of Creating an Effective Machine Learning Pipeline](https://LazyAlgorithms.github.io/2020/08/28/AdvanceMLPipeline/)
+- [Basic Machine Learning Pipeline](https://LazyAlgorithms.github.io/2020/07/07/BasicMLPipeline/)
+- [Tricks to Improve your Random Forests](https://LazyAlgorithms.github.io/2020/07/01/RandomForests/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
