@@ -1,4 +1,4 @@
-### Hey, have fun! 🥳 
+### Hey, Thanks for taking a peek! 🥳 
 ![](https://komarev.com/ghpvc/?username=prudhvivajja&style=plastic&label=profile+views&color=orange) (Count's my veiws too 🤷‍♂️ )
 
 ![Name gif](https://github.com/PrudhviVajja/PrudhviVajja/blob/master/virtualFont.gif)
